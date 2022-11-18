@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <! aim: The FINeTech
+    A website that helps with the current financial domain. 
+    Solve the problem of the people and help them to give 
+    easy access to borrowers ,lenders ,investment.
+    Event Timeline/>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="css.css">
+    <style type="text/css"> </style>
+</head>
+<body style= "background-color:grey; text-align: center;                   " >
+    <h1> GEEKS INVESTEMENT</h1>
+    <p> <marquee> Geeks invests Logically and Mathematically, not Emotionally!</marquee></p> <br>
+    <p> <em> We only provide tools to access,</em></p>
+<br>
+<h2> What Is an Investment?</h2><br>
+<ui>An investment is an asset or item acquired with the goal of generating income or appreciation. <br>
+    Appreciation refers to an increase in the value of an asset over time. When an individual purchases a good as an investment, <br>
+    the intent is not to consume the good but rather to use it in the future to create wealth. <br>
+<! -- source of this written conenct: https://www.investopedia.com/terms/i/investment.asp />
+    An investment always concerns the outlay of some resource today—time, effort, money, <br>
+    or an asset—in hopes of a greater payoff in the future than what was originally put in. <br>
+ For example, an investor may purchase a monetary asset now with the idea that the asset<br>
+ 
+     will provide income in the future or will later be sold at a higher price for a profit. </ui><br> 
+
+</body>
+</html>
